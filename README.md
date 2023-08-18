@@ -1,4 +1,4 @@
-# 'Destination Unreachable'
+# Destination Unreachable
 
 This repository contains the code, data, and figures for the Internet Intelligence Research Lab's Sigcomm '23 paper, _Destination Unreachable: Characterizing Internet Outages and Shutdowns_ by authors Zachary S. Bischof, Kennedy Pitcher, Esteban Carisimo, Amanda Meng, Rafael Bezerra Nunes, Ramakrishna Padmanabhan, Molly Roberts, Alex C. Snoeren, and Alberto Dainotti.
 
